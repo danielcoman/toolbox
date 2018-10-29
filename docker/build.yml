@@ -1,0 +1,8 @@
+version: '3.3'
+services:
+
+  toolbox:
+    build:
+      context: ./toolbox
+      dockerfile: ./Dockerfile
+    image: danielcoman/toolbox:latest

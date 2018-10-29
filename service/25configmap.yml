@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: test-conf-volume
+  namespace: toolbox
+data:
+  test.conf: |
+    test
