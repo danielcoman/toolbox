@@ -6,7 +6,7 @@ alpine 3.9
 
 Apply service:
 ```
-kubectl apply -f service
+kubectl apply -f deploy 
 ```
 
 Image Build:

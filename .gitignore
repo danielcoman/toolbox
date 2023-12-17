@@ -6,3 +6,4 @@
 
 **/*.tgz
 **/charts/*.tgz
+.idea/
